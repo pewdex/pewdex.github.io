@@ -61,7 +61,6 @@ const tabData = {
     tab1: [
         { iconSrc: "assets/img/skills/js.svg", label: "JavaScript", altText: "JavaScript" },
         { iconSrc: "assets/img/skills/ts.svg", label: "TypeScript", altText: "TypeScript" },
-        { iconSrc: "assets/img/skills/golang.svg", label: "Go", altText: "Go" },
         { iconSrc: "assets/img/skills/java.svg", label: "Java", altText: "Java" },
         { iconSrc: "assets/img/skills/csharp.svg", label: "C#", altText: "C#" },
         { iconSrc: "assets/img/skills/python.svg", label: "Python", altText: "Python" },
@@ -110,7 +109,6 @@ const tabData = {
         { iconSrc: "assets/img/skills/csharp.svg", label: "C#", altText: "C#" },
         { iconSrc: "assets/img/skills/js.svg", label: "JavaScript", altText: "JavaScript" },
         { iconSrc: "assets/img/skills/ts.svg", label: "TypeScript", altText: "TypeScript" },
-        { iconSrc: "assets/img/skills/golang.svg", label: "Go", altText: "Go" },
         { iconSrc: "assets/img/skills/java.svg", label: "Java", altText: "Java" },
         { iconSrc: "assets/img/skills/c.svg", label: "C++", altText: "C++" },
         { iconSrc: "assets/img/skills/python.svg", label: "Python", altText: "Python" }
